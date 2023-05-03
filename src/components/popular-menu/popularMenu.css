@@ -1,0 +1,53 @@
+.cards{
+    display: inline-block;
+    height: 300px;
+    margin-left: 15px;
+    margin-top:10px;
+    margin-left: 30px;
+    
+}
+.z h2{
+    margin-top: 40px;
+    color: orange;
+}
+.card{
+    color: #fff;
+    transition: 0.5s;
+}
+.card:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.card span{
+    display: flex;
+    justify-content: center;
+}
+.icons{
+    text-align: center;
+}
+.icons i{
+    margin-right: 3px;
+    color: orange;
+    font-size: 12px;
+}
+.card-title{
+   color: orange;
+   text-align: center;
+}
+.cart-price{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+   color: orange;
+}
+.cart-price i{
+    cursor: pointer;
+}
+.cart-price p {
+    color: #fff;
+}
+.cart-price b{
+    color: orange;
+}

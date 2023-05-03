@@ -1,0 +1,40 @@
+.choose{
+    margin-top: 200px;
+    color: #fff;
+}
+.choose_content{
+    margin-top: 50px;
+}
+.choose_content h2{
+    color: orange;
+}
+.single_feature span{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: orangered;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.single_feature span i{
+   font-size: 1.5rem;
+}
+.feature-icon-two{
+    background-color: #2ace92 !important;
+}
+.feature1{
+    flex-wrap: wrap;
+}
+.single_feature h6{
+    color: orange;
+}
+.three span{
+    background-color: #7865ff;
+}
+.feature-icon-four{
+    background-color: #1a0630;
+
+}

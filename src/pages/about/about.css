@@ -1,0 +1,22 @@
+.about{
+    padding-top: 150px;
+}
+.about-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.about-img img{
+    width: 40%;
+    margin-top: 150px;
+    margin: 10px;
+}
+.about-details{
+    font-size: 35px;
+    color: #ccc;
+    font-weight: bold;
+    width: 70%;
+    margin: auto;
+    margin-top: 20px;
+}

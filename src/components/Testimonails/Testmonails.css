@@ -1,0 +1,31 @@
+.testmonails{
+    margin-top: 100px;
+    background-color: rgb(4, 4, 20);
+    padding-bottom: 100px;
+}
+.i{
+    background: rgb(4, 4, 20);
+    padding: 0;
+    margin-left: 70px;
+    margin-top: 150px;
+    width: 80%;
+}
+.icons {
+    text-align: left;
+    margin-bottom: 5px;
+}
+.testmonails h2{
+    color: orange;
+}
+.sigle_testimonail{
+    padding: 20px;
+    background-color: #333;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.sigle_testimonail h4{
+     color: orangered;
+}
+.review_content{
+    color: #ccc;
+}
